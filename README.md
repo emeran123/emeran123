@@ -15,6 +15,7 @@ I'm a software developer who is passionate about creating technology to elevate 
   - [All New-Light Company](http://allnew-light.com/ar)
   
 - 🔍 Sample offline Projects:
+    - [CloudSnap Site](https://github.com/emeran123/CloudSnap)
     - [Hospital Sample](https://github.com/emeran123/hospital-sample)
     
 - 💬 Thanks for visiting **My Profile**
