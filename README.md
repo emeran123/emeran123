@@ -9,9 +9,12 @@
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. 
 
-- 🔍 My Live Projects: 
+- ⭐ My Live Projects: 
   - [MIC Schools](http://demo.ye.school/)
   - [Fajr Water](https://miahfajr.com/)
   - [All New-Light Company](http://allnew-light.com/ar)
   
+- 🔍 Sample offline Projects:
+    - [Hospital Sample](https://github.com/emeran123/hospital-sample)
+    
 - 💬 Thanks for visiting **My Profile**
